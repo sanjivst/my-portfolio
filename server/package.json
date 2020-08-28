@@ -1,0 +1,22 @@
+{
+  "name": "my-portfolio",
+  "version": "1.0.0",
+  "description": "REST API for My Personal Portfolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sanjivst/my-portfolio.git"
+  },
+  "author": "Sanjiv Shrestha",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sanjivst/my-portfolio/issues"
+  },
+  "homepage": "https://github.com/sanjivst/my-portfolio#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
